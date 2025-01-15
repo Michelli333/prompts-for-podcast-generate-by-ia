@@ -18,7 +18,8 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
 - Chatgpt Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Capcut para tratar aúdio e adicionar sons de fundo, versão free criou arquivo mp4
+- Soundforge para transformar arquivo mp4 em mp3
 
 ## 📚 Materiais
 
